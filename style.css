@@ -1,0 +1,35 @@
+
+html{
+    background-image: url('dog.jpg');
+    background-position: center;
+    background-size:center;
+    height:auto;
+    
+}
+h1{
+    color: red;
+}
+p{
+color: rgb(182, 9, 9);
+font-size: medium;
+}
+.one{
+color: limegreen;
+}
+ul{
+    color: chartreuse;
+   
+}
+h3{
+    font-style: italic;
+    text-align: right;
+}
+.two{
+    font-style: initial;
+    color: blue;
+    text-align: right;
+}
+.three{
+    color: teal;
+    text-align: right;
+}
